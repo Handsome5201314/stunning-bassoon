@@ -1,1 +1,16 @@
-
+{
+  "name": "baby-growth-tracker",
+  "version": "1.0.0",
+  "description": "Newborn 3D Growth Monitoring Mini Program",
+  "main": "app.js",
+  "scripts": {
+    "dev": "echo \"Use WeChat DevTools to run the project\" && exit 0",
+    "build": "miniprogram build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "three": "^0.132.2"
+  },
+  "devDependencies": {
+  }
+}

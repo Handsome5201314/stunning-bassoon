@@ -1,0 +1,10 @@
+{
+    "setting": {
+        "compileHotReLoad": true,
+        "preloadBackgroundData": true,
+        "bigPackageSizeSupport": true,
+        "urlCheck": false,
+        "autoAudits": false,
+        "skylineRenderEnable": true
+    }
+}

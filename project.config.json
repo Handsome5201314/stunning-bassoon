@@ -1,0 +1,18 @@
+{
+    "compileType": "miniprogram",
+    "simulatorPluginLibVersion": {
+        "wxext14566970e7e9f62": "2.27.3"
+    },
+    "setting": {
+        "uglifyFileName": true,
+        "minified": true,
+        "postcss": true,
+        "compileWorklet": true,
+        "swc": true,
+        "disableSWC": false,
+        "enhance": true,
+        "es6": true,
+        "condition": true
+    },
+    "projectArchitecture": "multiPlatform"
+}
